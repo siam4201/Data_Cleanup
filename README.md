@@ -20,13 +20,13 @@
 
 ## Project structure
 
-- data/: raw and processed data (see data/README.md)
-- notebooks/: Jupyter notebooks for exploration and analysis
+- data/: raw and processed data (see data/README.md).
+- notebooks/: Jupyter notebooks for exploration and analysis.
 
 
 ## Setup
 
-- Use the enviroment.yml to setup the necessary enviroment and libraries
+- Use the enviroment.yml to setup the necessary enviroment and libraries.
 
 ## Data
 - See the data folder readme.md for instructions and links.
