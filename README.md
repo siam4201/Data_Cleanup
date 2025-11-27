@@ -9,11 +9,11 @@
 
 # Visualization
 
--Player grouping by country.
+- Player grouping by country.
 
--Gantt Chart of player career timeline.
+- Gantt Chart of player career timeline.
 
--Bar chart of how many runs were from running, 4s and 6s
+- Bar chart of how many runs were from running, 4s and 6s
 
 ## Project structure
 
